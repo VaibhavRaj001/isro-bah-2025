@@ -1,0 +1,9 @@
+https://mosdac.gov.in/software/HdfTool.zip
+https://mosdac.gov.in/software/mt-hdf-bin-linux.zip
+https://mosdac.gov.in/software/mt-hdf-bin-txt.zip
+https://mosdac.gov.in/software/DP_hdf_ascii.tar
+https://mosdac.gov.in/software/PR_hdf_ascii.tar
+https://mosdac.gov.in/software/SACRS2_Package.rar
+https://mosdac.gov.in/software/INSAT_IDV_PLUGIN.jar
+sftp://ftp.mosdac.gov.in
+https://mosdac.gov.in/software/hdftool-linux.zip
