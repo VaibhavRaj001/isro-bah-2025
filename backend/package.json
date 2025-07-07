@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend folder for ISRO BAH 2025",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch index.js --exec node index.js",
+    "dev:worker": "nodemon --watch worker.js --exec node worker.js"
+  },
+  "author": "Anant",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^6.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "langchain": "^0.3.29",
+    "openai": "^5.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
